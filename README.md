@@ -1,4 +1,4 @@
 localhost
 =========
 
-192.168.1.37/phpmyadmin
+http://localhost.somsag.hol.es/phpMyAdmin/
